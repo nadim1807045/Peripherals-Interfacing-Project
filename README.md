@@ -7,4 +7,4 @@ https://github.com/nadim1807045/Peripherals-Interfacing-Project/assets/105338453
 
 # The circuit diagram of the robot is below
 
-![ARDUINO HUMAN FOLLOWING CAR](https://github.com/nadim1807045/Peripherals-Interfacing-Project/assets/105338453/503a6643-e7af-40a6-ad68-60897ed3e2c1)
+![Circuit diagram](https://github.com/nadim1807045/Peripherals-Interfacing-Project/assets/105338453/3936d093-e702-467d-8ef8-0fc0f33eb29a)
