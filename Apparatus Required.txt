@@ -1,0 +1,13 @@
+1) Arduino Uno 
+2) Motor Driver Shield 
+3) Wheels (4x) 
+4) TT Gear Motor (4x)
+5) Servo Motor
+6) Ultrasonic Sensor
+7) Infrared Sensor (2x)
+8) 18650 Li-on Battery (2x)
+9) 18650 Battery Holder
+10) Male and Female Jumper wire
+11) Acrylic Sheet - (Offline Store)
+12) DC Power Switch
+13) Chassis
